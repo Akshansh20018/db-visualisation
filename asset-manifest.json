@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/db-visualisation/static/css/main.c09ddc20.css",
+    "main.js": "/db-visualisation/static/js/main.ed3920ad.js",
+    "index.html": "/db-visualisation/index.html",
+    "main.c09ddc20.css.map": "/db-visualisation/static/css/main.c09ddc20.css.map",
+    "main.ed3920ad.js.map": "/db-visualisation/static/js/main.ed3920ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c09ddc20.css",
+    "static/js/main.ed3920ad.js"
+  ]
+}
